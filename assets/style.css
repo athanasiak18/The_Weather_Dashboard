@@ -1,0 +1,36 @@
+h1 {
+    font-weight: 200;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 200;
+}
+
+h3 {
+    font-weight: 200;
+}
+
+.cities {
+    font-weight: 200;
+}
+
+.forecast {
+    font-weight: 200;
+    display: flex;
+}
+
+.severe {
+    font-weight: 200;
+    color: red;
+} 
+
+.moderate {
+    font-weight: 200;
+    color: yellow;
+}
+
+.favorable {
+    font-weight: 200;
+    color: green;
+}
